@@ -3,7 +3,7 @@ Helper scripts and macros using BoneJ.
 
 The intention of this repository is to archive and share code examples where BoneJ has been used from other code, in particular ImageJ macros or Jython / Python scripts. All examples of using BoneJ's API from client code are welcome.
 
-There is no strict code style required and contributers are encouraged to share their work 'warts and all', early and often. It will help everyone (especially future you) if you include documentation in each script. Minimal documentation should include:
+There is no strict code style required and contributors are encouraged to share their work 'warts and all', early and often. It will help everyone (especially future you) if you include documentation in each script. Minimal documentation should include:
 
 - The date
 - Your name
