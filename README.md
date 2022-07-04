@@ -19,3 +19,11 @@ It is helpful to include line-by-line documentation so that the intention of eac
 Files uploaded here remain the intellectual property of their authors and are made available under licence terms set in each file by the authors.
 
 Code is automatically archived at [Zenodo](https://doi.org/10.5281/zenodo.6792892) with DOI, and can be cited from there. Note that the Zenodo DOI changes as the code is updated. Best practice is to cite the DOI specific to the 'version of record' of your scripts. The DOI linked from this README is the universal one that always resolves to the latest code version.
+
+## How to contribute
+
+1. Fork this repository, using the 'Fork' button at the top right of this page.
+2. Commit your scripts and documentation to your fork, using the organisational convention `code_language/project_name/MyScriptName.extension`
+3. Submit a pull request to merge your fork's `master` to `bonej-org/bonej-scripts/master`
+4. Respond to conversations about your pull request
+5. When code is merged, check the Zenodo archive and make sure it's there: we have to make a new release in order for Zenodo to issue a DOI that you can cite.
