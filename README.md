@@ -7,8 +7,9 @@ There is no strict code style required and contributors are encouraged to share 
 
 - The date
 - Your name
-- A description of what the code is meant to do
-- Any related documents, such as the DOI and citation details of a publication for which the code was used
+- A description of what the code is meant to do and how to run it.
+- Assumptions about the environment such as operating system, Fiji/ImageJ version, BoneJ version, and image characteristics.
+- Any related documents, such as the DOI and citation details of a publication for which the code was used.
 - A licence
 
 It is helpful to include line-by-line documentation so that the intention of each piece of code is clear.
