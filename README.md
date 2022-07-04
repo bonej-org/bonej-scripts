@@ -16,7 +16,7 @@ Minimal documentation should include:
 
 It is helpful to include line-by-line documentation so that the intention of each piece of code is clear.
 
-Files uploaded here remain the intellectual property of their authors and are made available under licence terms set in each file by the authors. If authors have not set a licence, assume [Creative Commons Attribution 4.0 International (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/legalcode).
+Files uploaded to this repository remain the intellectual property of their authors and are made available under licence terms set in each file by the authors. If authors have not set a licence, assume [Creative Commons Attribution 4.0 International (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/legalcode).
 
 Code is automatically archived at [Zenodo](https://doi.org/10.5281/zenodo.6792892) with DOI, and can be cited from there. Note that the Zenodo DOI changes as the code is updated. Best practice is to cite the DOI specific to the 'version of record' of your scripts. The DOI linked from this README is the universal one that always resolves to the latest code version.
 
