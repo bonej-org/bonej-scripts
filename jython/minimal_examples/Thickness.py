@@ -20,11 +20,11 @@ imp = IJ.openImage(path)
 imp.show()
 
 #instantiate local thickness and set its options
-localThickness = LocalThicknessWrapper();
-localThickness.setSilence(True);
-localThickness.setShowOptions(False);
-localThickness.maskThicknessMap = True;
-localThickness.calibratePixels = True;
+localThickness = LocalThicknessWrapper()
+localThickness.setSilence(True)
+localThickness.setShowOptions(False)
+localThickness.maskThicknessMap = True
+localThickness.calibratePixels = True
 
 #run local thickness. mapImp is the thickness map as an ImageJ1 ImagePlus
 mapImp = localThickness.processImage(imp)
@@ -34,7 +34,7 @@ mapImp.show()
 
 #calculate some summary statistics on the map
 #see also https://imagej.nih.gov/ij/developer/api/ij/ij/process/StackStatistics.html
-resultStats = StackStatistics(mapImp);
+resultStats = StackStatistics(mapImp)
 print(resultStats)
 
 #save the map
